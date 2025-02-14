@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "author": "J.K. Rowling",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "year": 1997,
+      "genre": "Fantasy",
+      "pages": 309,
+      "available": true
+    },
+    {
+      "id": 2,
+      "author": "George Orwell",
+      "title": "1984",
+      "year": 1949,
+      "genre": "Dystopian",
+      "pages": 328,
+      "available": false
+    }
+  ]
